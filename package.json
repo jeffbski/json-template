@@ -11,6 +11,7 @@
         "Irakli Gozalishvili (http://rfobic.wordpress.com/)"
     ],
     "lib": "lib",
+    "main": "lib/json-template.js",
     "dependencies": {
     }
 }
